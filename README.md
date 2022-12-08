@@ -1,2 +1,2 @@
-# teste de edição no navegador de md
+# Criar repositório do git/GitHub - Desafio DIO
 Desafio DIO para criação de repositório no Git/GitHub
