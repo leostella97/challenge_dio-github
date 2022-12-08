@@ -1,10 +1,13 @@
 # Criar repositório do git/GitHub - Desafio DIO
 <br>
 Principais comandos do Git Bash - 
+<br>
 git clone url
+<br>
 git add . //para adicionar o que foi colocado
 git push main
-git commit "Mensagem"
+<br>
+git commit -m "Mensagem"
 <br>
 Desafio DIO para criação de repositório no Git/GitHub
 <br>
