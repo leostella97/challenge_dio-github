@@ -3,11 +3,11 @@ Editar MD File -
 <br>
 Desafio DIO para criação de repositório no Git/GitHub
 <br>
-[Redes Sociais] 
+##Redes Sociais 
 <br> 
-(https://www.facebook.com/LeoStella97/) 
+[Facebook](https://www.facebook.com/LeoStella97/) 
 <br>
-(https://www.linkedin.com/in/leostella97/) 
+[LinkedIn](https://www.linkedin.com/in/leostella97/) 
 <br> 
-(https://wa.me/5513997333907) 
+[WhatsApp](https://wa.me/5513997333907) 
 <br> 
