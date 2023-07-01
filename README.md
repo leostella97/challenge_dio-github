@@ -18,4 +18,5 @@ Desafio DIO para criação de repositório no Git/GitHub
 [LinkedIn] (https://www.linkedin.com/in/leostella97/) 
 <br> 
 [WhatsApp] (https://wa.me/5513997333907) 
-<br> 
+<br><br>
+* Atualização 01/07/2023
